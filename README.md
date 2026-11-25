@@ -7,7 +7,7 @@ Choose your language / Choisissez votre langue
 
 ## Quick Links / Liens rapides
 
-- [Issues]()
+- [Issues](https://github.com/callmeloxy/portalsync/issues)
 - [Changelog Fabric](https://github.com/callmeloxy/portalsync/blob/main/fabric/CHANGELOG.md)
 - [Changelog Neoforge](https://github.com/callmeloxy/portalsync/blob/main/neoforge/CHANGELOG.md)
 - [Discord](https://discord.gg/NsNGDKxrYr)
