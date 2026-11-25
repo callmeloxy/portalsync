@@ -1,4 +1,4 @@
-# CobbleSpawnAlert Reforged
+# PortalSync
 
 Choose your language / Choisissez votre langue
 
