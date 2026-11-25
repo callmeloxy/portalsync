@@ -9,7 +9,7 @@ Choose your language / Choisissez votre langue
 
 - [Issues]()
 - [Changelog Fabric](https://github.com/callmeloxy/portalsync/blob/main/fabric/CHANGELOG.md)
-- [Changelog Neoforge]()
+- [Changelog Neoforge](https://github.com/callmeloxy/portalsync/blob/main/neoforge/CHANGELOG.md)
 - [Discord](https://discord.gg/NsNGDKxrYr)
 
 ## Important
